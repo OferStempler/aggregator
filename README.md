@@ -3,6 +3,7 @@
 mvn clean install
 
 **to run:**
+
 java  -jar aggregator-1.0.0.jar
 
 **GET request example to referesh:**
